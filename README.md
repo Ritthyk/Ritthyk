@@ -60,9 +60,5 @@
 
 ---
 
-⭐ **Let's shape the future of AI together!** 🚀
-
----
-
 ### 💡 AI:
 > "Artificial Intelligence is the science and engineering of making intelligent machines." - John McCarthy
