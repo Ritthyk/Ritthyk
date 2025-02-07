@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -29,6 +29,27 @@
 
 ---
 
+### 🔥 Projects:
+
+#### **LYRA AI - ENGLISH TUTOR (Ongoing) [LangChain, JSON, Python]** [View link]
+- Intelligent assistant to enhance reading, listening, and spoken English skills utilizing LangChain for LLM implementation.
+
+#### **VIDHYAGPT - BILINGUAL LEARNING ASSISTANT [Llama-cpp, Python, TTS]** [View link]
+- Chat assistant capable of real-time speech-to-speech conversion in English and Hindi, ensuring an accuracy rate of 86%.
+
+#### **ETTA - THE MEDICAL ASSISTANT [NLP, LLM, RAG]** [View link]
+- Medical assistance to analyze medical documents and provide accurate insights with precision of 77%.
+
+---
+
+### 🏆 Achievements:
+
+#### **1. SMART INDIA HACKATHON 2023 - WINNERS** [View link]
+- Secured first place among 52,000 entries by developing a wearable device (prototype) to counteract tinnitus.
+- Developed a machine learning model to predict the current state of the patient using stress and heart rate with 91% confidence.
+
+#### **2. BITHACKS 2023 - WINNERS** [View link]
+- Title winners against 680 teams in the software edition of the hackathon implementing Indian Number Plate Recognition.
 
 ---
 
@@ -43,7 +64,5 @@
 
 ---
 
-### 💡 AI Definition:
+### 💡 AI:
 > "Artificial Intelligence is the science and engineering of making intelligent machines." - John McCarthy
-
-Waiting for the day to define Intelligent Machines
