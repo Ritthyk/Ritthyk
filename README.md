@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Ritthyk M 👋</h1>
 
 <p align="center">
@@ -42,7 +43,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritthykm/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RitthykM)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritthykm.github.io)
+📧 **Email:** er.ritthykm@gmail.com
 
 ---
 
 ⭐ **Let's shape the future of AI together!** 🚀
+
+---
+
+### 💡 AI Definition:
+> "Artificial Intelligence is the science and engineering of making intelligent machines." - John McCarthy
