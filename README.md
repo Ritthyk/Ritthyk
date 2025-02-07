@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Ritthyk M 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=AI+Evangelist+%7C+ML+%E2%86%92+DL+%E2%86%92+Generative+AI;Pursuing+BE+CSE+at+Bannari+Amman+Institute+of+Technology;Thriving+to+Gain+Deep+Insights+into+AI;Passionate+About+Contributing+to+the+AI+Community;Dreaming+of+AGI+and+its+Impact+on+the+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=AI+Evangelist+%7C+ML+%E2%86%92+DL+%E2%86%92+Generative+AI;Thriving+to+Gain+Deep+Insights+into+AI;Passionate+About+Contributing+to+the+AI+Community;Dreaming+of+AGI+and+its+Impact+on+the+World" alt="Typing SVG" />
 </p>
 
 ---
