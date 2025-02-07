@@ -11,8 +11,8 @@
 
 - 🎓 **Pursuing BE CSE** at Bannari Amman Institute of Technology
 - 🤖 **AI Enthusiast** with hands-on experience in **Machine Learning, Deep Learning, and Generative AI**
-- 🏗️ Developed real-time **AI-powered projects** in surveillance, people counting, and image recognition
-- 🔬 Currently researching **Generative AI** and hoping to contribute to the birth of **Artificial General Intelligence (AGI)**
+- 🏗️ Developed real-time **AI-powered projects** in AI assistants, people counting, and image recognition
+- 🔬 Currently devling into **Generative AI** and hoping to contribute to the birth of **Artificial General Intelligence (AGI)**
 - 💡 Passionate about **sharing knowledge**, **exploring cutting-edge AI innovations**, and **collaborating** on impactful projects
 
 ---
@@ -29,20 +29,12 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitthykM&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitthykM&theme=radical&hide_border=true" width="48%" />
-</p>
 
 ---
 
 ### 📫 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritthykm/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RitthykM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritthykm.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritthyk-m/)
 📧 **Email:** er.ritthykm@gmail.com
 
 ---
@@ -53,3 +45,5 @@
 
 ### 💡 AI Definition:
 > "Artificial Intelligence is the science and engineering of making intelligent machines." - John McCarthy
+
+Waiting for the day to define Intelligent Machines
